@@ -1,0 +1,62 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background-color:black;
+}
+.tableClass{
+    background-color: red;
+    color:white;
+    font-size: 18px;
+    border: solid;
+    border-color: white;
+    border-width: 10px;
+    height: 100%;
+    width: 95%;
+}
+.rowOne{
+    background-color: blue;
+}
+.rowTwo{
+    background-color: green;
+    text-align: center;
+    color: yellow;
+}
+.rowOneColOne{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+    padding-left: 100px;
+}
+.rowOneColTwo{
+    border-style: dashed;
+    border-color: black;
+    border-radius: 5px;
+}
+.rowOneColThree{
+    border-style: dotted;
+    border-color:orange;
+    border-width: 5px;
+    color: red;
+    text-align: right;
+}
+.rowTwoColOne{
+    background-color: purple;
+    border-style: double;
+    border-width: 5px;
+}
+.rowTwoColTwo{
+    border-style: groove;
+    border-width: 10px;
+    border-color: blue;
+    font-size: 28px;
+}
+.rowTwoColThree{
+    font-style: arial;
+    font-size: 22px;
+    color: purple;
+    border-style: inset;
+    border-width: 5px;
+    border-color: yellow
+}
